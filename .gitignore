@@ -1,0 +1,21 @@
+node_modules/
+.DS_Store
+*.log
+.env
+.env.local
+out/
+build/
+dist/
+
+# Whisper 跑出的字幕（用户自己的视频文件，不进仓库）
+*.srt
+*.txt
+!README*.txt
+!prompts/*.txt
+*.mp4
+*.mov
+*.m4a
+*.wav
+
+# 用户的截图示例（不强制，但默认不进仓库）
+examples/user-*

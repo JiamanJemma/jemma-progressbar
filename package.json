@@ -1,0 +1,29 @@
+{
+  "name": "jemma-progressbar",
+  "version": "0.1.0",
+  "description": "Remotion progress-bar kit · 3 components × 5 themes · AI-friendly · Subtitle-to-chapters + screenshot-to-code",
+  "main": "src/components/index.ts",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "remotion",
+    "progress-bar",
+    "video",
+    "whisper",
+    "ai",
+    "vibe-coding",
+    "jemma"
+  ],
+  "author": "Jemma (jiamanjemma.com)",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "remotion": ">=4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.29",
+    "remotion": "^4.0.465",
+    "typescript": "^5.9.3"
+  }
+}
