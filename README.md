@@ -158,8 +158,8 @@ MIT — use it · modify it · sell it · credit appreciated
 
 ## 关于作者 / About
 
-**佳蔓 Jemma** — 全职妈妈 + AI 一人公司
-A full-time mom running a one-person AI company
+**佳蔓 Jemma** — 从全职妈妈到 AI 一人公司
+From full-time mom to a one-person AI company
 
 - 网站 / Site: [jiamanjemma.com](https://jiamanjemma.com)
 - 全域同名「佳蔓 Jemma」/ Same name across all platforms
